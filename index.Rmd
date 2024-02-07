@@ -1,0 +1,35 @@
+---
+title: "From Nabokov's Net"
+output: 
+  html_document:
+    css: 'styles.css'
+---
+
+<!-- This centers the title text on this page.  -->
+
+<style type="text/css">
+
+h1.title {
+  font-size: 60px;
+  color: ;
+  text-align: center;
+}
+</style>
+
+<center> Learn more about the research going on at the Cornell University Insect Collection. </center>
+
+</span> 
+<span style="color: #E1DBE5;">. 
+
+</span> 
+
+<center>
+<div style="position:absolute; width:130%">
+![](websiteBackground.png)
+</div>
+</center>
+
+
+
+
+
