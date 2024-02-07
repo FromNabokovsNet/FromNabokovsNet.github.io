@@ -24,8 +24,9 @@ h1.title {
 </span> 
 
 <center>
-<div style="position:absolute; width:130%">
-![](websiteBackground.png)
+<div style="width:130%">
+<video src="https://github.com/FromNabokovsNet/FromNabokovsNet.github.io/blob/main/testVideo.mp4" controls="controls" style="max-width: 730px;">
+</video>
 </div>
 </center>
 
