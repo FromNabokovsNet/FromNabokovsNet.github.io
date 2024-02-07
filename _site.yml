@@ -1,0 +1,10 @@
+name: "From Nabokov's Net"
+output_dir: "."
+navbar:
+  title: "From Nabokov's Net"
+  left:
+    - text: "Home"
+      href: index.html
+output:
+  html_document:
+    css: 'styles.css'
