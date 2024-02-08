@@ -21,18 +21,18 @@ p {
 
 /* This sets the link text color; you can pick colors at this site: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool*/
 
-a { color: #386e73; } /* CSS link color */
+a { color: #7691CB; } /* CSS link color */
 
 
 /*----------------NAVBAR ---------------*/
 .navbar-default {
-    background-color: #bda8b4;
+    background-color: #AEC4F3;
 }
 
 .navbar-default .navbar-nav>.open>a, 
 .navbar-default .navbar-nav>.active>a, 
 dropdown-toggle:hover {
-  background-color: #bda8b4;
+  background-color: #CDDBF8;
 }
 
 /* Dropdown menu color */
@@ -58,7 +58,7 @@ navbar-brand:hover {
 /* This sets the background body color; you can pick colors at this site: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool*/
 
 body {
-  background-color: #edebe6 ;
+  background-color: #F3EFEC ;
 }
 
 /* This formats the social media icons on the contact page. The icons at the bottom of each page have just the default formatting. */
